@@ -1,0 +1,361 @@
+film,Genre,Subgenre
+A Bug's Life,Adventure,Animal Adventure
+A Bug's Life,Adventure,Computer Animation
+A Bug's Life,Adventure,Quest
+A Bug's Life,Animation,Animal Adventure
+A Bug's Life,Animation,Computer Animation
+A Bug's Life,Animation,Quest
+A Bug's Life,Comedy,Animal Adventure
+A Bug's Life,Comedy,Computer Animation
+A Bug's Life,Comedy,Quest
+Brave,Action,Coming-of-Age
+Brave,Action,Computer Animation
+Brave,Action,Fairy Tale
+Brave,Action,Quest
+Brave,Action,Sword & Sorcery
+Brave,Action,Teen Adventure
+Brave,Adventure,Coming-of-Age
+Brave,Adventure,Computer Animation
+Brave,Adventure,Fairy Tale
+Brave,Adventure,Quest
+Brave,Adventure,Sword & Sorcery
+Brave,Adventure,Teen Adventure
+Brave,Animation,Coming-of-Age
+Brave,Animation,Computer Animation
+Brave,Animation,Fairy Tale
+Brave,Animation,Quest
+Brave,Animation,Sword & Sorcery
+Brave,Animation,Teen Adventure
+Cars,Adventure,Computer Animation
+Cars,Adventure,Motorsport
+Cars,Adventure,Sport
+Cars,Animation,Computer Animation
+Cars,Animation,Motorsport
+Cars,Animation,Sport
+Cars,Comedy,Computer Animation
+Cars,Comedy,Motorsport
+Cars,Comedy,Sport
+Cars 2,Adventure,Car Action
+Cars 2,Adventure,Computer Animation
+Cars 2,Adventure,Crime
+Cars 2,Adventure,Motorsport
+Cars 2,Adventure,Sport
+Cars 2,Adventure,Spy
+Cars 2,Animation,Car Action
+Cars 2,Animation,Computer Animation
+Cars 2,Animation,Crime
+Cars 2,Animation,Motorsport
+Cars 2,Animation,Sport
+Cars 2,Animation,Spy
+Cars 2,Comedy,Car Action
+Cars 2,Comedy,Computer Animation
+Cars 2,Comedy,Crime
+Cars 2,Comedy,Motorsport
+Cars 2,Comedy,Sport
+Cars 2,Comedy,Spy
+Cars 3,Adventure,Car Action
+Cars 3,Adventure,Computer Animation
+Cars 3,Adventure,Motorsport
+Cars 3,Adventure,Sport
+Cars 3,Animation,Car Action
+Cars 3,Animation,Computer Animation
+Cars 3,Animation,Motorsport
+Cars 3,Animation,Sport
+Cars 3,Comedy,Car Action
+Cars 3,Comedy,Computer Animation
+Cars 3,Comedy,Motorsport
+Cars 3,Comedy,Sport
+Coco,Adventure,Computer Animation
+Coco,Adventure,Fantasy
+Coco,Adventure,Music
+Coco,Adventure,Mystery
+Coco,Adventure,Supernatural Fantasy
+Coco,Animation,Computer Animation
+Coco,Animation,Fantasy
+Coco,Animation,Music
+Coco,Animation,Mystery
+Coco,Animation,Supernatural Fantasy
+Coco,Drama,Computer Animation
+Coco,Drama,Fantasy
+Coco,Drama,Music
+Coco,Drama,Mystery
+Coco,Drama,Supernatural Fantasy
+Elemental,Adventure,Computer Animation
+Elemental,Adventure,Fantasy
+Elemental,Adventure,Romance
+Elemental,Adventure,Urban Adventure
+Elemental,Animation,Computer Animation
+Elemental,Animation,Fantasy
+Elemental,Animation,Romance
+Elemental,Animation,Urban Adventure
+Elemental,Comedy,Computer Animation
+Elemental,Comedy,Fantasy
+Elemental,Comedy,Romance
+Elemental,Comedy,Urban Adventure
+Finding Dory,Adventure,Animal Adventure
+Finding Dory,Adventure,Computer Animation
+Finding Dory,Adventure,Fantasy
+Finding Dory,Adventure,Sea Adventure
+Finding Dory,Animation,Animal Adventure
+Finding Dory,Animation,Computer Animation
+Finding Dory,Animation,Fantasy
+Finding Dory,Animation,Sea Adventure
+Finding Dory,Comedy,Animal Adventure
+Finding Dory,Comedy,Computer Animation
+Finding Dory,Comedy,Fantasy
+Finding Dory,Comedy,Sea Adventure
+Finding Nemo,Adventure,Animal Adventure
+Finding Nemo,Adventure,Buddy Comedy
+Finding Nemo,Adventure,Computer Animation
+Finding Nemo,Adventure,Quest
+Finding Nemo,Adventure,Sea Adventure
+Finding Nemo,Animation,Animal Adventure
+Finding Nemo,Animation,Buddy Comedy
+Finding Nemo,Animation,Computer Animation
+Finding Nemo,Animation,Quest
+Finding Nemo,Animation,Sea Adventure
+Finding Nemo,Comedy,Animal Adventure
+Finding Nemo,Comedy,Buddy Comedy
+Finding Nemo,Comedy,Computer Animation
+Finding Nemo,Comedy,Quest
+Finding Nemo,Comedy,Sea Adventure
+Incredibles 2,Action,Computer Animation
+Incredibles 2,Action,Sci-Fi
+Incredibles 2,Action,Superhero
+Incredibles 2,Action,Urban Adventure
+Incredibles 2,Adventure,Computer Animation
+Incredibles 2,Adventure,Sci-Fi
+Incredibles 2,Adventure,Superhero
+Incredibles 2,Adventure,Urban Adventure
+Incredibles 2,Animation,Computer Animation
+Incredibles 2,Animation,Sci-Fi
+Incredibles 2,Animation,Superhero
+Incredibles 2,Animation,Urban Adventure
+Inside Out,Adventure,Coming-of-Age
+Inside Out,Adventure,Computer Animation
+Inside Out,Adventure,Fantasy
+Inside Out,Animation,Coming-of-Age
+Inside Out,Animation,Computer Animation
+Inside Out,Animation,Fantasy
+Inside Out,Comedy,Coming-of-Age
+Inside Out,Comedy,Computer Animation
+Inside Out,Comedy,Fantasy
+Inside Out 2,Adventure,Coming-of-Age
+Inside Out 2,Adventure,Computer Animation
+Inside Out 2,Adventure,Quest
+Inside Out 2,Adventure,Teen Comedy
+Inside Out 2,Adventure,Teen Drama
+Inside Out 2,Animation,Coming-of-Age
+Inside Out 2,Animation,Computer Animation
+Inside Out 2,Animation,Quest
+Inside Out 2,Animation,Teen Comedy
+Inside Out 2,Animation,Teen Drama
+Inside Out 2,Comedy,Coming-of-Age
+Inside Out 2,Comedy,Computer Animation
+Inside Out 2,Comedy,Quest
+Inside Out 2,Comedy,Teen Comedy
+Inside Out 2,Comedy,Teen Drama
+Lightyear,Action,Computer Animation
+Lightyear,Action,Sci-Fi
+Lightyear,Action,Space Sci-Fi
+Lightyear,Action,Superhero
+Lightyear,Action,Time Travel
+Lightyear,Adventure,Computer Animation
+Lightyear,Adventure,Sci-Fi
+Lightyear,Adventure,Space Sci-Fi
+Lightyear,Adventure,Superhero
+Lightyear,Adventure,Time Travel
+Lightyear,Animation,Computer Animation
+Lightyear,Animation,Sci-Fi
+Lightyear,Animation,Space Sci-Fi
+Lightyear,Animation,Superhero
+Lightyear,Animation,Time Travel
+Luca,Adventure,Coming-of-Age
+Luca,Adventure,Computer Animation
+Luca,Adventure,Fairy Tale
+Luca,Adventure,Fantasy
+Luca,Adventure,Sea Adventure
+Luca,Animation,Coming-of-Age
+Luca,Animation,Computer Animation
+Luca,Animation,Fairy Tale
+Luca,Animation,Fantasy
+Luca,Animation,Sea Adventure
+Luca,Comedy,Coming-of-Age
+Luca,Comedy,Computer Animation
+Luca,Comedy,Fairy Tale
+Luca,Comedy,Fantasy
+Luca,Comedy,Sea Adventure
+Monsters University,Adventure,Computer Animation
+Monsters University,Adventure,Fantasy
+Monsters University,Animation,Computer Animation
+Monsters University,Animation,Fantasy
+Monsters University,Comedy,Computer Animation
+Monsters University,Comedy,Fantasy
+"Monsters, Inc.",Adventure,Buddy Comedy
+"Monsters, Inc.",Adventure,Computer Animation
+"Monsters, Inc.",Adventure,Fantasy
+"Monsters, Inc.",Adventure,Supernatural Fantasy
+"Monsters, Inc.",Adventure,Urban Adventure
+"Monsters, Inc.",Animation,Buddy Comedy
+"Monsters, Inc.",Animation,Computer Animation
+"Monsters, Inc.",Animation,Fantasy
+"Monsters, Inc.",Animation,Supernatural Fantasy
+"Monsters, Inc.",Animation,Urban Adventure
+"Monsters, Inc.",Comedy,Buddy Comedy
+"Monsters, Inc.",Comedy,Computer Animation
+"Monsters, Inc.",Comedy,Fantasy
+"Monsters, Inc.",Comedy,Supernatural Fantasy
+"Monsters, Inc.",Comedy,Urban Adventure
+Onward,Adventure,Computer Animation
+Onward,Adventure,Fantasy Epic
+Onward,Adventure,Quest
+Onward,Adventure,Supernatural Fantasy
+Onward,Adventure,Sword & Sorcery
+Onward,Animation,Computer Animation
+Onward,Animation,Fantasy Epic
+Onward,Animation,Quest
+Onward,Animation,Supernatural Fantasy
+Onward,Animation,Sword & Sorcery
+Onward,Comedy,Computer Animation
+Onward,Comedy,Fantasy Epic
+Onward,Comedy,Quest
+Onward,Comedy,Supernatural Fantasy
+Onward,Comedy,Sword & Sorcery
+Ratatouille,Adventure,Animal Adventure
+Ratatouille,Adventure,Computer Animation
+Ratatouille,Adventure,Fantasy
+Ratatouille,Animation,Animal Adventure
+Ratatouille,Animation,Computer Animation
+Ratatouille,Animation,Fantasy
+Ratatouille,Comedy,Animal Adventure
+Ratatouille,Comedy,Computer Animation
+Ratatouille,Comedy,Fantasy
+Soul,Adventure,Computer Animation
+Soul,Adventure,Fantasy
+Soul,Adventure,Music
+Soul,Animation,Computer Animation
+Soul,Animation,Fantasy
+Soul,Animation,Music
+Soul,Comedy,Computer Animation
+Soul,Comedy,Fantasy
+Soul,Comedy,Music
+The Good Dinosaur,Action,Animal Adventure
+The Good Dinosaur,Action,Buddy Comedy
+The Good Dinosaur,Action,Computer Animation
+The Good Dinosaur,Action,Dinosaur Adventure
+The Good Dinosaur,Adventure,Animal Adventure
+The Good Dinosaur,Adventure,Buddy Comedy
+The Good Dinosaur,Adventure,Computer Animation
+The Good Dinosaur,Adventure,Dinosaur Adventure
+The Good Dinosaur,Animation,Animal Adventure
+The Good Dinosaur,Animation,Buddy Comedy
+The Good Dinosaur,Animation,Computer Animation
+The Good Dinosaur,Animation,Dinosaur Adventure
+The Incredibles,Action,Computer Animation
+The Incredibles,Action,Superhero
+The Incredibles,Action,Urban Adventure
+The Incredibles,Adventure,Computer Animation
+The Incredibles,Adventure,Superhero
+The Incredibles,Adventure,Urban Adventure
+The Incredibles,Animation,Computer Animation
+The Incredibles,Animation,Superhero
+The Incredibles,Animation,Urban Adventure
+Toy Story,Adventure,Buddy Comedy
+Toy Story,Adventure,Computer Animation
+Toy Story,Adventure,Fantasy
+Toy Story,Adventure,Supernatural Fantasy
+Toy Story,Adventure,Urban Adventure
+Toy Story,Animation,Buddy Comedy
+Toy Story,Animation,Computer Animation
+Toy Story,Animation,Fantasy
+Toy Story,Animation,Supernatural Fantasy
+Toy Story,Animation,Urban Adventure
+Toy Story,Comedy,Buddy Comedy
+Toy Story,Comedy,Computer Animation
+Toy Story,Comedy,Fantasy
+Toy Story,Comedy,Supernatural Fantasy
+Toy Story,Comedy,Urban Adventure
+Toy Story 2,Adventure,Computer Animation
+Toy Story 2,Adventure,Fantasy
+Toy Story 2,Adventure,Quest
+Toy Story 2,Adventure,Supernatural Fantasy
+Toy Story 2,Adventure,Urban Adventure
+Toy Story 2,Animation,Computer Animation
+Toy Story 2,Animation,Fantasy
+Toy Story 2,Animation,Quest
+Toy Story 2,Animation,Supernatural Fantasy
+Toy Story 2,Animation,Urban Adventure
+Toy Story 2,Comedy,Computer Animation
+Toy Story 2,Comedy,Fantasy
+Toy Story 2,Comedy,Quest
+Toy Story 2,Comedy,Supernatural Fantasy
+Toy Story 2,Comedy,Urban Adventure
+Toy Story 3,Adventure,Computer Animation
+Toy Story 3,Adventure,Fantasy
+Toy Story 3,Adventure,Supernatural Fantasy
+Toy Story 3,Adventure,Urban Adventure
+Toy Story 3,Animation,Computer Animation
+Toy Story 3,Animation,Fantasy
+Toy Story 3,Animation,Supernatural Fantasy
+Toy Story 3,Animation,Urban Adventure
+Toy Story 3,Comedy,Computer Animation
+Toy Story 3,Comedy,Fantasy
+Toy Story 3,Comedy,Supernatural Fantasy
+Toy Story 3,Comedy,Urban Adventure
+Toy Story 4,Adventure,Computer Animation
+Toy Story 4,Adventure,Fantasy
+Toy Story 4,Adventure,Road Trip
+Toy Story 4,Adventure,Supernatural Fantasy
+Toy Story 4,Adventure,Urban Adventure
+Toy Story 4,Animation,Computer Animation
+Toy Story 4,Animation,Fantasy
+Toy Story 4,Animation,Road Trip
+Toy Story 4,Animation,Supernatural Fantasy
+Toy Story 4,Animation,Urban Adventure
+Toy Story 4,Comedy,Computer Animation
+Toy Story 4,Comedy,Fantasy
+Toy Story 4,Comedy,Road Trip
+Toy Story 4,Comedy,Supernatural Fantasy
+Toy Story 4,Comedy,Urban Adventure
+Turning Red,Adventure,Coming-of-Age
+Turning Red,Adventure,Computer Animation
+Turning Red,Adventure,Fantasy
+Turning Red,Adventure,Music
+Turning Red,Adventure,Teen Comedy
+Turning Red,Animation,Coming-of-Age
+Turning Red,Animation,Computer Animation
+Turning Red,Animation,Fantasy
+Turning Red,Animation,Music
+Turning Red,Animation,Teen Comedy
+Turning Red,Comedy,Coming-of-Age
+Turning Red,Comedy,Computer Animation
+Turning Red,Comedy,Fantasy
+Turning Red,Comedy,Music
+Turning Red,Comedy,Teen Comedy
+Up,Adventure,Coming-of-Age
+Up,Adventure,Computer Animation
+Up,Adventure,Globetrotting Adventure
+Up,Animation,Coming-of-Age
+Up,Animation,Computer Animation
+Up,Animation,Globetrotting Adventure
+Up,Comedy,Coming-of-Age
+Up,Comedy,Computer Animation
+Up,Comedy,Globetrotting Adventure
+WALL-E,Adventure,Adventure Epic
+WALL-E,Adventure,Artificial Intelligence
+WALL-E,Adventure,Computer Animation
+WALL-E,Adventure,Dystopian Sci-Fi
+WALL-E,Adventure,Sci-Fi
+WALL-E,Adventure,Space Sci-Fi
+WALL-E,Animation,Adventure Epic
+WALL-E,Animation,Artificial Intelligence
+WALL-E,Animation,Computer Animation
+WALL-E,Animation,Dystopian Sci-Fi
+WALL-E,Animation,Sci-Fi
+WALL-E,Animation,Space Sci-Fi
+WALL-E,Family,Adventure Epic
+WALL-E,Family,Artificial Intelligence
+WALL-E,Family,Computer Animation
+WALL-E,Family,Dystopian Sci-Fi
+WALL-E,Family,Sci-Fi
+WALL-E,Family,Space Sci-Fi

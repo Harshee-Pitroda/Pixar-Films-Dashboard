@@ -1,0 +1,20 @@
+Listing all the images I used as icons for my analysis
+1. https://www.disneyclips.com/images5/images/turning-red-panda7.png
+2. https://c4.wallpaperflare.com/wallpaper/929/920/943/cartoons-pixar-disney-company-movies-walle-animated-4026x5983-entertainment-movies-hd-art-wallpaper-thumb.jpg
+3. https://i.pinimg.com/170x/5a/3a/97/5a3a975ec6748dc3f5e0204817b1179f.jpg
+4. https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYM7Cq_p37skUD7WDiaBafm-F6kKt56jL51sZP3O6vZRev7m4P
+5. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bd-Wkk6wh4RU59P_0I8kdEnbYIyI4xdleQ&s
+6. https://kh.wiki.gallery/images/2/23/Ian_Lightfoot_KHUX.png
+7. https://static.wikia.nocookie.net/pixar/images/9/96/Russell1.png/revision/latest/smart/width/250/height/250?cb=20110416122426
+8. https://static.wikitide.net/loathsomecharacterswiki/1/10/Buzz_Lightyear_%28Lightyear%29.png
+9. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_5wJc6z-2Uh0AEsELLnwftAZSsAJeOmJOeQ&s
+10. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG4sZAOdrv0D6sZoR1YUPGqZ7q18f336F3CA&s
+11. https://static.wikia.nocookie.net/ea57eb5e-6564-45bd-8a6b-dd890693efa3/scale-to-width/755
+12. https://upload.wikimedia.org/wikipedia/en/e/e8/Merida_disney.png
+13. https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2017/04/cars_3_characters-1.jpg
+14. https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Joy_-_Inside_Out.webp/210px-Joy_-_Inside_Out.webp.png
+15. https://upload.wikimedia.org/wikipedia/en/2/22/Mr._Incredible.png
+16. https://gimgs2.nohat.cc/thumb/f/640/marlin-finding-nemo-character-pixar-animation-nemo--5719640873369600.jpg
+17. https://upload.wikimedia.org/wikipedia/en/6/6a/Mike_Wazowski.png
+18. https://static.wikia.nocookie.net/a-bugs-life/images/7/77/Flik_Character_Model.png/revision/latest?cb=20151226224121
+19. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxd_hfCD46OpCIz-0Z2Yk6vixAudurrwwn_Q&s

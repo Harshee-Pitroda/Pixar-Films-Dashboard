@@ -1,6 +1,6 @@
 # Pixar-Films-Dashboard
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/b206bebe-30e8-4ef4-b125-86b6094938ef)
 
 
 Youtube Link — https://youtu.be/R3WLkHEpjpQ?si=WKausZCZJXvqUXFC
